@@ -1,12 +1,11 @@
-Este é o exemplo de um ficheiro de texto file3
+<h1>Lista de coisas</h1>
 
 
+<h2>Bebidas</>
 
-
-
-
-
-
-
-
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
